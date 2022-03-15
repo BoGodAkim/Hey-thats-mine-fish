@@ -1,0 +1,1 @@
+%s, choose penguin which you want to move(from 1 to %i)
